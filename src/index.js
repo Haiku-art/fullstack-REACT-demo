@@ -15,3 +15,15 @@ root.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+ 
+
+/* import React from "react";
+import ReactDOM from "react-dom";
+
+const App = () => (
+  <div>
+    <h1>Ensimmäinen React-sovellukseni!</h1>
+  </div>
+);
+
+ReactDOM.render(<App />, document.getElementById("root")); */
