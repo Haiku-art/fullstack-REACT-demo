@@ -2,7 +2,18 @@
 <h1> FullStack demo project with REACT framework </h1>
 This FullStack project is a frontend built with the React framework, for a backend powered by Node.js, Express framework, MongoDB and  Mongoose
 
-<hr>
+## ✅ INSTALLATION
+
+The project dependencies are listed in the package.json file. To install them, run the following command in your terminal:
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+
 <h3> ✅ INSTALLATION </h3>
 <p> The project dependencies are listed in the package.json file. To install them, run the following command in your terminal: </p>
 <p><b>npm install</b></p>
