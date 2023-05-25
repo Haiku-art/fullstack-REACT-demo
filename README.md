@@ -19,9 +19,9 @@ Runs the app in the development mode. Open [http://localhost:3000](http://localh
 ## ✅ DEPLOYMENT</h3>
 
 This project is deployed on Render.com:<p>
-[https://fullstack-react-demo.onrender.com](https://fullstack-react-demo.onrender.com) *\
+[https://fullstack-react-demo.onrender.com](https://fullstack-react-demo.onrender.com) *
 
-<i>* The API cannot be accessed on the version deployed here, since this is only for demo purposes</i>
+<i>* The API cannot be accessed on the version deployed here, since it is only for demo purposes for the frontend design</i>
 
 ### `npm run build`
 
